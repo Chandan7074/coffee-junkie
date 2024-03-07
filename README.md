@@ -13,4 +13,4 @@
 7. internal and external page navigations
 8. input tags
 
-To see the Live Demo, go to: [Coffee-Junkie Demo](https://chandan7074.github.io/coffee-junkie/)
+To see the Live Demo, go to: [Live Demo](https://chandan7074.github.io/coffee-junkie/){:target="_blank"}
